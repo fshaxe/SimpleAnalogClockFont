@@ -1,7 +1,7 @@
 # SimpleAnalogClockFont
 A simple true type font including a glyph for all 720 minutes of an analog clock.
 ## Preview
-![Gif](clock_showcase.gif)  
+![Gif](clock_showcase.gif) small 32x32 gif utilising every 3 min interval
 ![Regular](Regular.png)
 ![Bold](Bold.png)
 ## Indexing
