@@ -1,7 +1,9 @@
 # SimpleAnalogClockFont
 A simple true type font including a glyph for all 720 minutes of an analog clock.
 ## Preview
-![Gif](clock_showcase.gif)
+![Gif](clock_showcase.gif)  
+[Regular](Regular.png)
+[Bold](Bold.png)
 ## Indexing
 The glyphs are located in the Private Use Area, starting at U+E000.
 ```
